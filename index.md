@@ -201,7 +201,7 @@ But the website formulation is much more concrete.
 
 The breakthrough sentence is:
 
-> **Ukubona = Journaling**
+> **Ukubona = [Journaling](https://jhufena.github.io/home/)**
 >
 > Stateₜ = Σ Eventᵢ
 
