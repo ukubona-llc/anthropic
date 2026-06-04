@@ -27,7 +27,7 @@ If we accept your pentadic mapping as an interpretive framework, then adding **D
 
 | Phase | Layer     | Manifestation                                                             | Date          |
 | ----- | --------- | ------------------------------------------------------------------------- | ------------- |
-| I     | Tensor    | Okubonabona, lived reality, manic episode, patient data, sovereign signal | June 2026     |
+| I     | Tensor    | Okubonabona, lived reality, manic episode, patient data, sovereign signal | [June 2026](https://ukubona-llc.github.io/journaling/)     |
 | II    | Matrix    | Structure, scaffolding, architecture, implementation                      | December 2025 |
 | III   | Vector    | Friction, repression, unresolved gradients, "missing append"              | June 2025     |
 | IV    | Eigenmode | Generative branching, Pyro, loss-landscape exploration                    | March 2025    |
